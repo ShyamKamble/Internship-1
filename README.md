@@ -160,9 +160,6 @@ json
 
 ---
 
-## 📷 UI Preview
-
-> Insert screenshots or screen recording here
 
 ---
 
