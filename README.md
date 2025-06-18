@@ -5,12 +5,13 @@
 
 A simple task manager built with the *MERN* stack that allows team members to create tasks, assign them, filter by status or assignee, and update status in real time. Built with clean modular code and teamwork in mind.
 install tailwind css with this commmand // npm install tailwindcss @tailwindcss/vite
+
+---
+
 run the frontend with npm run dev 
 run the backend with npm start
 import TaskForm from './compnenets/TaskForm';
 import TaskList from './compnenets/TaskList';//if this line gave error  just retype it 
----
-
 ## 🔧 Features
 
 * ✅ Create tasks with title, description, assignee, and status
